@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Github-333333?style=flat&logo=github&logoColor=#181717)
 ![Git](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=#7952B3)
 ![Git](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visualstudiocode&logoColor=#007ACC)
-<!-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) -->
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws) -->
