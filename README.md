@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# This is Azad Nishad a Frontend Dev.
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AzadNishad)
 
 ## 🔧 Technologies & Tools
