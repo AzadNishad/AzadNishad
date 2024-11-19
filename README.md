@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📈 **GitHub Stats**
+## 📈 **My Stats**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AzadNishad&show_icons=true&theme=ambient_gradient)
 
 ---
